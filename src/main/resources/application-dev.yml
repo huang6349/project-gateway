@@ -1,0 +1,6 @@
+spring.cloud.nacos:
+  username: nacos
+  password: pwd123456
+  discovery:
+    server-addr: 100.100.100.252:3848
+    group: DEFAULT_GROUP
